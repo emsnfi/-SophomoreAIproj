@@ -1,0 +1,406 @@
+C:\Users\emily\Downloads\DB15\DB15\bin\DB15.dll.config
+C:\Users\emily\Downloads\DB15\DB15\bin\DB15.dll
+C:\Users\emily\Downloads\DB15\DB15\bin\DB15.pdb
+C:\Users\emily\Downloads\DB15\DB15\bin\roslyn\csc.exe
+C:\Users\emily\Downloads\DB15\DB15\bin\roslyn\csc.exe.config
+C:\Users\emily\Downloads\DB15\DB15\bin\roslyn\csc.rsp
+C:\Users\emily\Downloads\DB15\DB15\bin\roslyn\csi.exe
+C:\Users\emily\Downloads\DB15\DB15\bin\roslyn\csi.exe.config
+C:\Users\emily\Downloads\DB15\DB15\bin\roslyn\csi.rsp
+C:\Users\emily\Downloads\DB15\DB15\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\emily\Downloads\DB15\DB15\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\emily\Downloads\DB15\DB15\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\emily\Downloads\DB15\DB15\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\emily\Downloads\DB15\DB15\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\emily\Downloads\DB15\DB15\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\emily\Downloads\DB15\DB15\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\emily\Downloads\DB15\DB15\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\emily\Downloads\DB15\DB15\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\emily\Downloads\DB15\DB15\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\emily\Downloads\DB15\DB15\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\emily\Downloads\DB15\DB15\bin\roslyn\System.AppContext.dll
+C:\Users\emily\Downloads\DB15\DB15\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\emily\Downloads\DB15\DB15\bin\roslyn\System.Console.dll
+C:\Users\emily\Downloads\DB15\DB15\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\emily\Downloads\DB15\DB15\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\emily\Downloads\DB15\DB15\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\emily\Downloads\DB15\DB15\bin\roslyn\System.IO.Compression.dll
+C:\Users\emily\Downloads\DB15\DB15\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\emily\Downloads\DB15\DB15\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\emily\Downloads\DB15\DB15\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\emily\Downloads\DB15\DB15\bin\roslyn\System.IO.Pipes.dll
+C:\Users\emily\Downloads\DB15\DB15\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\emily\Downloads\DB15\DB15\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\emily\Downloads\DB15\DB15\bin\roslyn\System.Security.Claims.dll
+C:\Users\emily\Downloads\DB15\DB15\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\emily\Downloads\DB15\DB15\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\emily\Downloads\DB15\DB15\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\emily\Downloads\DB15\DB15\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\emily\Downloads\DB15\DB15\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\emily\Downloads\DB15\DB15\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\emily\Downloads\DB15\DB15\bin\roslyn\System.Threading.Thread.dll
+C:\Users\emily\Downloads\DB15\DB15\bin\roslyn\System.ValueTuple.dll
+C:\Users\emily\Downloads\DB15\DB15\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\emily\Downloads\DB15\DB15\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\emily\Downloads\DB15\DB15\bin\roslyn\System.Xml.XPath.dll
+C:\Users\emily\Downloads\DB15\DB15\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\emily\Downloads\DB15\DB15\bin\roslyn\vbc.exe
+C:\Users\emily\Downloads\DB15\DB15\bin\roslyn\vbc.exe.config
+C:\Users\emily\Downloads\DB15\DB15\bin\roslyn\vbc.rsp
+C:\Users\emily\Downloads\DB15\DB15\bin\roslyn\VBCSCompiler.exe
+C:\Users\emily\Downloads\DB15\DB15\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\emily\Downloads\DB15\DB15\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\emily\Downloads\DB15\DB15\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\emily\Downloads\DB15\DB15\obj\Debug\DB15.csprojResolveAssemblyReference.cache
+C:\Users\emily\Downloads\DB15\DB15\obj\Debug\DB15.csproj.CoreCompileInputs.cache
+C:\Users\emily\Downloads\DB15\DB15\obj\Debug\DB15.csproj.CopyComplete
+C:\Users\emily\Downloads\DB15\DB15\obj\Debug\DB15.dll
+C:\Users\emily\Downloads\DB15\DB15\obj\Debug\DB15.pdb
+F:\新增資料夾 (3)\DB15\DB15\bin\DB15.dll.config
+F:\新增資料夾 (3)\DB15\DB15\bin\DB15.dll
+F:\新增資料夾 (3)\DB15\DB15\bin\DB15.pdb
+F:\新增資料夾 (3)\DB15\DB15\bin\roslyn\csc.exe
+F:\新增資料夾 (3)\DB15\DB15\bin\roslyn\csc.exe.config
+F:\新增資料夾 (3)\DB15\DB15\bin\roslyn\csc.rsp
+F:\新增資料夾 (3)\DB15\DB15\bin\roslyn\csi.exe
+F:\新增資料夾 (3)\DB15\DB15\bin\roslyn\csi.exe.config
+F:\新增資料夾 (3)\DB15\DB15\bin\roslyn\csi.rsp
+F:\新增資料夾 (3)\DB15\DB15\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\新增資料夾 (3)\DB15\DB15\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\新增資料夾 (3)\DB15\DB15\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\新增資料夾 (3)\DB15\DB15\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\新增資料夾 (3)\DB15\DB15\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\新增資料夾 (3)\DB15\DB15\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\新增資料夾 (3)\DB15\DB15\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\新增資料夾 (3)\DB15\DB15\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\新增資料夾 (3)\DB15\DB15\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\新增資料夾 (3)\DB15\DB15\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\新增資料夾 (3)\DB15\DB15\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\新增資料夾 (3)\DB15\DB15\bin\roslyn\System.AppContext.dll
+F:\新增資料夾 (3)\DB15\DB15\bin\roslyn\System.Collections.Immutable.dll
+F:\新增資料夾 (3)\DB15\DB15\bin\roslyn\System.Console.dll
+F:\新增資料夾 (3)\DB15\DB15\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\新增資料夾 (3)\DB15\DB15\bin\roslyn\System.Diagnostics.Process.dll
+F:\新增資料夾 (3)\DB15\DB15\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\新增資料夾 (3)\DB15\DB15\bin\roslyn\System.IO.Compression.dll
+F:\新增資料夾 (3)\DB15\DB15\bin\roslyn\System.IO.FileSystem.dll
+F:\新增資料夾 (3)\DB15\DB15\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+F:\新增資料夾 (3)\DB15\DB15\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\新增資料夾 (3)\DB15\DB15\bin\roslyn\System.IO.Pipes.dll
+F:\新增資料夾 (3)\DB15\DB15\bin\roslyn\System.Reflection.Metadata.dll
+F:\新增資料夾 (3)\DB15\DB15\bin\roslyn\System.Security.AccessControl.dll
+F:\新增資料夾 (3)\DB15\DB15\bin\roslyn\System.Security.Claims.dll
+F:\新增資料夾 (3)\DB15\DB15\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\新增資料夾 (3)\DB15\DB15\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\新增資料夾 (3)\DB15\DB15\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\新增資料夾 (3)\DB15\DB15\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\新增資料夾 (3)\DB15\DB15\bin\roslyn\System.Security.Principal.Windows.dll
+F:\新增資料夾 (3)\DB15\DB15\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\新增資料夾 (3)\DB15\DB15\bin\roslyn\System.Threading.Thread.dll
+F:\新增資料夾 (3)\DB15\DB15\bin\roslyn\System.ValueTuple.dll
+F:\新增資料夾 (3)\DB15\DB15\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\新增資料夾 (3)\DB15\DB15\bin\roslyn\System.Xml.XmlDocument.dll
+F:\新增資料夾 (3)\DB15\DB15\bin\roslyn\System.Xml.XPath.dll
+F:\新增資料夾 (3)\DB15\DB15\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\新增資料夾 (3)\DB15\DB15\bin\roslyn\vbc.exe
+F:\新增資料夾 (3)\DB15\DB15\bin\roslyn\vbc.exe.config
+F:\新增資料夾 (3)\DB15\DB15\bin\roslyn\vbc.rsp
+F:\新增資料夾 (3)\DB15\DB15\bin\roslyn\VBCSCompiler.exe
+F:\新增資料夾 (3)\DB15\DB15\bin\roslyn\VBCSCompiler.exe.config
+F:\新增資料夾 (3)\DB15\DB15\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\新增資料夾 (3)\DB15\DB15\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\新增資料夾 (3)\DB15\DB15\obj\Debug\DB15.csprojAssemblyReference.cache
+F:\新增資料夾 (3)\DB15\DB15\obj\Debug\DB15.csproj.CoreCompileInputs.cache
+F:\新增資料夾 (3)\DB15\DB15\obj\Debug\DB15.csproj.CopyComplete
+F:\新增資料夾 (3)\DB15\DB15\obj\Debug\DB15.dll
+F:\新增資料夾 (3)\DB15\DB15\obj\Debug\DB15.pdb
+C:\Users\WisHStaR\Desktop\DB15\DB15\bin\DB15.dll.config
+C:\Users\WisHStaR\Desktop\DB15\DB15\bin\DB15.dll
+C:\Users\WisHStaR\Desktop\DB15\DB15\bin\DB15.pdb
+C:\Users\WisHStaR\Desktop\DB15\DB15\bin\roslyn\csc.exe
+C:\Users\WisHStaR\Desktop\DB15\DB15\bin\roslyn\csc.exe.config
+C:\Users\WisHStaR\Desktop\DB15\DB15\bin\roslyn\csc.rsp
+C:\Users\WisHStaR\Desktop\DB15\DB15\bin\roslyn\csi.exe
+C:\Users\WisHStaR\Desktop\DB15\DB15\bin\roslyn\csi.exe.config
+C:\Users\WisHStaR\Desktop\DB15\DB15\bin\roslyn\csi.rsp
+C:\Users\WisHStaR\Desktop\DB15\DB15\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\WisHStaR\Desktop\DB15\DB15\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\WisHStaR\Desktop\DB15\DB15\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\WisHStaR\Desktop\DB15\DB15\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\WisHStaR\Desktop\DB15\DB15\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\WisHStaR\Desktop\DB15\DB15\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\WisHStaR\Desktop\DB15\DB15\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\WisHStaR\Desktop\DB15\DB15\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\WisHStaR\Desktop\DB15\DB15\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\WisHStaR\Desktop\DB15\DB15\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\WisHStaR\Desktop\DB15\DB15\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\WisHStaR\Desktop\DB15\DB15\bin\roslyn\System.AppContext.dll
+C:\Users\WisHStaR\Desktop\DB15\DB15\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\WisHStaR\Desktop\DB15\DB15\bin\roslyn\System.Console.dll
+C:\Users\WisHStaR\Desktop\DB15\DB15\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\WisHStaR\Desktop\DB15\DB15\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\WisHStaR\Desktop\DB15\DB15\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\WisHStaR\Desktop\DB15\DB15\bin\roslyn\System.IO.Compression.dll
+C:\Users\WisHStaR\Desktop\DB15\DB15\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\WisHStaR\Desktop\DB15\DB15\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\WisHStaR\Desktop\DB15\DB15\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\WisHStaR\Desktop\DB15\DB15\bin\roslyn\System.IO.Pipes.dll
+C:\Users\WisHStaR\Desktop\DB15\DB15\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\WisHStaR\Desktop\DB15\DB15\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\WisHStaR\Desktop\DB15\DB15\bin\roslyn\System.Security.Claims.dll
+C:\Users\WisHStaR\Desktop\DB15\DB15\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\WisHStaR\Desktop\DB15\DB15\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\WisHStaR\Desktop\DB15\DB15\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\WisHStaR\Desktop\DB15\DB15\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\WisHStaR\Desktop\DB15\DB15\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\WisHStaR\Desktop\DB15\DB15\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\WisHStaR\Desktop\DB15\DB15\bin\roslyn\System.Threading.Thread.dll
+C:\Users\WisHStaR\Desktop\DB15\DB15\bin\roslyn\System.ValueTuple.dll
+C:\Users\WisHStaR\Desktop\DB15\DB15\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\WisHStaR\Desktop\DB15\DB15\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\WisHStaR\Desktop\DB15\DB15\bin\roslyn\System.Xml.XPath.dll
+C:\Users\WisHStaR\Desktop\DB15\DB15\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\WisHStaR\Desktop\DB15\DB15\bin\roslyn\vbc.exe
+C:\Users\WisHStaR\Desktop\DB15\DB15\bin\roslyn\vbc.exe.config
+C:\Users\WisHStaR\Desktop\DB15\DB15\bin\roslyn\vbc.rsp
+C:\Users\WisHStaR\Desktop\DB15\DB15\bin\roslyn\VBCSCompiler.exe
+C:\Users\WisHStaR\Desktop\DB15\DB15\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\WisHStaR\Desktop\DB15\DB15\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\WisHStaR\Desktop\DB15\DB15\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\WisHStaR\Desktop\DB15\DB15\obj\Debug\DB15.csprojAssemblyReference.cache
+C:\Users\WisHStaR\Desktop\DB15\DB15\obj\Debug\DB15.csproj.CoreCompileInputs.cache
+C:\Users\WisHStaR\Desktop\DB15\DB15\obj\Debug\DB15.csproj.CopyComplete
+C:\Users\WisHStaR\Desktop\DB15\DB15\obj\Debug\DB15.dll
+C:\Users\WisHStaR\Desktop\DB15\DB15\obj\Debug\DB15.pdb
+C:\Users\emily\Downloads\人工智慧\DB15\bin\DB15.dll.config
+C:\Users\emily\Downloads\人工智慧\DB15\bin\DB15.dll
+C:\Users\emily\Downloads\人工智慧\DB15\bin\DB15.pdb
+C:\Users\emily\Downloads\人工智慧\DB15\bin\roslyn\csc.exe
+C:\Users\emily\Downloads\人工智慧\DB15\bin\roslyn\csc.exe.config
+C:\Users\emily\Downloads\人工智慧\DB15\bin\roslyn\csc.rsp
+C:\Users\emily\Downloads\人工智慧\DB15\bin\roslyn\csi.exe
+C:\Users\emily\Downloads\人工智慧\DB15\bin\roslyn\csi.exe.config
+C:\Users\emily\Downloads\人工智慧\DB15\bin\roslyn\csi.rsp
+C:\Users\emily\Downloads\人工智慧\DB15\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\emily\Downloads\人工智慧\DB15\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\emily\Downloads\人工智慧\DB15\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\emily\Downloads\人工智慧\DB15\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\emily\Downloads\人工智慧\DB15\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\emily\Downloads\人工智慧\DB15\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\emily\Downloads\人工智慧\DB15\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\emily\Downloads\人工智慧\DB15\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\emily\Downloads\人工智慧\DB15\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\emily\Downloads\人工智慧\DB15\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\emily\Downloads\人工智慧\DB15\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\emily\Downloads\人工智慧\DB15\bin\roslyn\System.AppContext.dll
+C:\Users\emily\Downloads\人工智慧\DB15\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\emily\Downloads\人工智慧\DB15\bin\roslyn\System.Console.dll
+C:\Users\emily\Downloads\人工智慧\DB15\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\emily\Downloads\人工智慧\DB15\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\emily\Downloads\人工智慧\DB15\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\emily\Downloads\人工智慧\DB15\bin\roslyn\System.IO.Compression.dll
+C:\Users\emily\Downloads\人工智慧\DB15\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\emily\Downloads\人工智慧\DB15\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\emily\Downloads\人工智慧\DB15\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\emily\Downloads\人工智慧\DB15\bin\roslyn\System.IO.Pipes.dll
+C:\Users\emily\Downloads\人工智慧\DB15\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\emily\Downloads\人工智慧\DB15\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\emily\Downloads\人工智慧\DB15\bin\roslyn\System.Security.Claims.dll
+C:\Users\emily\Downloads\人工智慧\DB15\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\emily\Downloads\人工智慧\DB15\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\emily\Downloads\人工智慧\DB15\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\emily\Downloads\人工智慧\DB15\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\emily\Downloads\人工智慧\DB15\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\emily\Downloads\人工智慧\DB15\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\emily\Downloads\人工智慧\DB15\bin\roslyn\System.Threading.Thread.dll
+C:\Users\emily\Downloads\人工智慧\DB15\bin\roslyn\System.ValueTuple.dll
+C:\Users\emily\Downloads\人工智慧\DB15\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\emily\Downloads\人工智慧\DB15\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\emily\Downloads\人工智慧\DB15\bin\roslyn\System.Xml.XPath.dll
+C:\Users\emily\Downloads\人工智慧\DB15\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\emily\Downloads\人工智慧\DB15\bin\roslyn\vbc.exe
+C:\Users\emily\Downloads\人工智慧\DB15\bin\roslyn\vbc.exe.config
+C:\Users\emily\Downloads\人工智慧\DB15\bin\roslyn\vbc.rsp
+C:\Users\emily\Downloads\人工智慧\DB15\bin\roslyn\VBCSCompiler.exe
+C:\Users\emily\Downloads\人工智慧\DB15\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\emily\Downloads\人工智慧\DB15\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\emily\Downloads\人工智慧\DB15\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\emily\Downloads\人工智慧\DB15\obj\Debug\DB15.csprojResolveAssemblyReference.cache
+C:\Users\emily\Downloads\人工智慧\DB15\obj\Debug\DB15.csproj.CoreCompileInputs.cache
+C:\Users\emily\Downloads\人工智慧\DB15\obj\Debug\DB15.csproj.CopyComplete
+C:\Users\emily\Downloads\人工智慧\DB15\obj\Debug\DB15.dll
+C:\Users\emily\Downloads\人工智慧\DB15\obj\Debug\DB15.pdb
+C:\Users\霈慈\Desktop\人工智慧\DB15\bin\DB15.dll.config
+C:\Users\霈慈\Desktop\人工智慧\DB15\bin\DB15.dll
+C:\Users\霈慈\Desktop\人工智慧\DB15\bin\DB15.pdb
+C:\Users\霈慈\Desktop\人工智慧\DB15\bin\roslyn\csc.exe
+C:\Users\霈慈\Desktop\人工智慧\DB15\bin\roslyn\csc.exe.config
+C:\Users\霈慈\Desktop\人工智慧\DB15\bin\roslyn\csc.rsp
+C:\Users\霈慈\Desktop\人工智慧\DB15\bin\roslyn\csi.exe
+C:\Users\霈慈\Desktop\人工智慧\DB15\bin\roslyn\csi.exe.config
+C:\Users\霈慈\Desktop\人工智慧\DB15\bin\roslyn\csi.rsp
+C:\Users\霈慈\Desktop\人工智慧\DB15\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\霈慈\Desktop\人工智慧\DB15\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\霈慈\Desktop\人工智慧\DB15\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\霈慈\Desktop\人工智慧\DB15\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\霈慈\Desktop\人工智慧\DB15\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\霈慈\Desktop\人工智慧\DB15\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\霈慈\Desktop\人工智慧\DB15\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\霈慈\Desktop\人工智慧\DB15\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\霈慈\Desktop\人工智慧\DB15\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\霈慈\Desktop\人工智慧\DB15\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\霈慈\Desktop\人工智慧\DB15\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\霈慈\Desktop\人工智慧\DB15\bin\roslyn\System.AppContext.dll
+C:\Users\霈慈\Desktop\人工智慧\DB15\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\霈慈\Desktop\人工智慧\DB15\bin\roslyn\System.Console.dll
+C:\Users\霈慈\Desktop\人工智慧\DB15\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\霈慈\Desktop\人工智慧\DB15\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\霈慈\Desktop\人工智慧\DB15\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\霈慈\Desktop\人工智慧\DB15\bin\roslyn\System.IO.Compression.dll
+C:\Users\霈慈\Desktop\人工智慧\DB15\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\霈慈\Desktop\人工智慧\DB15\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\霈慈\Desktop\人工智慧\DB15\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\霈慈\Desktop\人工智慧\DB15\bin\roslyn\System.IO.Pipes.dll
+C:\Users\霈慈\Desktop\人工智慧\DB15\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\霈慈\Desktop\人工智慧\DB15\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\霈慈\Desktop\人工智慧\DB15\bin\roslyn\System.Security.Claims.dll
+C:\Users\霈慈\Desktop\人工智慧\DB15\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\霈慈\Desktop\人工智慧\DB15\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\霈慈\Desktop\人工智慧\DB15\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\霈慈\Desktop\人工智慧\DB15\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\霈慈\Desktop\人工智慧\DB15\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\霈慈\Desktop\人工智慧\DB15\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\霈慈\Desktop\人工智慧\DB15\bin\roslyn\System.Threading.Thread.dll
+C:\Users\霈慈\Desktop\人工智慧\DB15\bin\roslyn\System.ValueTuple.dll
+C:\Users\霈慈\Desktop\人工智慧\DB15\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\霈慈\Desktop\人工智慧\DB15\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\霈慈\Desktop\人工智慧\DB15\bin\roslyn\System.Xml.XPath.dll
+C:\Users\霈慈\Desktop\人工智慧\DB15\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\霈慈\Desktop\人工智慧\DB15\bin\roslyn\vbc.exe
+C:\Users\霈慈\Desktop\人工智慧\DB15\bin\roslyn\vbc.exe.config
+C:\Users\霈慈\Desktop\人工智慧\DB15\bin\roslyn\vbc.rsp
+C:\Users\霈慈\Desktop\人工智慧\DB15\bin\roslyn\VBCSCompiler.exe
+C:\Users\霈慈\Desktop\人工智慧\DB15\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\霈慈\Desktop\人工智慧\DB15\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\霈慈\Desktop\人工智慧\DB15\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\霈慈\Desktop\人工智慧\DB15\obj\Debug\DB15.csprojAssemblyReference.cache
+C:\Users\霈慈\Desktop\人工智慧\DB15\obj\Debug\DB15.csproj.CoreCompileInputs.cache
+C:\Users\霈慈\Desktop\人工智慧\DB15\obj\Debug\DB15.csproj.CopyComplete
+C:\Users\霈慈\Desktop\人工智慧\DB15\obj\Debug\DB15.dll
+C:\Users\霈慈\Desktop\人工智慧\DB15\obj\Debug\DB15.pdb
+C:\Users\WisHStaR\Desktop\新增資料夾\人工智慧\DB15\bin\DB15.dll.config
+C:\Users\WisHStaR\Desktop\新增資料夾\人工智慧\DB15\bin\DB15.dll
+C:\Users\WisHStaR\Desktop\新增資料夾\人工智慧\DB15\bin\DB15.pdb
+C:\Users\WisHStaR\Desktop\新增資料夾\人工智慧\DB15\bin\roslyn\csc.exe
+C:\Users\WisHStaR\Desktop\新增資料夾\人工智慧\DB15\bin\roslyn\csc.exe.config
+C:\Users\WisHStaR\Desktop\新增資料夾\人工智慧\DB15\bin\roslyn\csc.rsp
+C:\Users\WisHStaR\Desktop\新增資料夾\人工智慧\DB15\bin\roslyn\csi.exe
+C:\Users\WisHStaR\Desktop\新增資料夾\人工智慧\DB15\bin\roslyn\csi.exe.config
+C:\Users\WisHStaR\Desktop\新增資料夾\人工智慧\DB15\bin\roslyn\csi.rsp
+C:\Users\WisHStaR\Desktop\新增資料夾\人工智慧\DB15\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\WisHStaR\Desktop\新增資料夾\人工智慧\DB15\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\WisHStaR\Desktop\新增資料夾\人工智慧\DB15\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\WisHStaR\Desktop\新增資料夾\人工智慧\DB15\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\WisHStaR\Desktop\新增資料夾\人工智慧\DB15\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\WisHStaR\Desktop\新增資料夾\人工智慧\DB15\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\WisHStaR\Desktop\新增資料夾\人工智慧\DB15\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\WisHStaR\Desktop\新增資料夾\人工智慧\DB15\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\WisHStaR\Desktop\新增資料夾\人工智慧\DB15\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\WisHStaR\Desktop\新增資料夾\人工智慧\DB15\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\WisHStaR\Desktop\新增資料夾\人工智慧\DB15\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\WisHStaR\Desktop\新增資料夾\人工智慧\DB15\bin\roslyn\System.AppContext.dll
+C:\Users\WisHStaR\Desktop\新增資料夾\人工智慧\DB15\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\WisHStaR\Desktop\新增資料夾\人工智慧\DB15\bin\roslyn\System.Console.dll
+C:\Users\WisHStaR\Desktop\新增資料夾\人工智慧\DB15\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\WisHStaR\Desktop\新增資料夾\人工智慧\DB15\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\WisHStaR\Desktop\新增資料夾\人工智慧\DB15\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\WisHStaR\Desktop\新增資料夾\人工智慧\DB15\bin\roslyn\System.IO.Compression.dll
+C:\Users\WisHStaR\Desktop\新增資料夾\人工智慧\DB15\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\WisHStaR\Desktop\新增資料夾\人工智慧\DB15\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\WisHStaR\Desktop\新增資料夾\人工智慧\DB15\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\WisHStaR\Desktop\新增資料夾\人工智慧\DB15\bin\roslyn\System.IO.Pipes.dll
+C:\Users\WisHStaR\Desktop\新增資料夾\人工智慧\DB15\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\WisHStaR\Desktop\新增資料夾\人工智慧\DB15\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\WisHStaR\Desktop\新增資料夾\人工智慧\DB15\bin\roslyn\System.Security.Claims.dll
+C:\Users\WisHStaR\Desktop\新增資料夾\人工智慧\DB15\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\WisHStaR\Desktop\新增資料夾\人工智慧\DB15\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\WisHStaR\Desktop\新增資料夾\人工智慧\DB15\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\WisHStaR\Desktop\新增資料夾\人工智慧\DB15\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\WisHStaR\Desktop\新增資料夾\人工智慧\DB15\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\WisHStaR\Desktop\新增資料夾\人工智慧\DB15\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\WisHStaR\Desktop\新增資料夾\人工智慧\DB15\bin\roslyn\System.Threading.Thread.dll
+C:\Users\WisHStaR\Desktop\新增資料夾\人工智慧\DB15\bin\roslyn\System.ValueTuple.dll
+C:\Users\WisHStaR\Desktop\新增資料夾\人工智慧\DB15\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\WisHStaR\Desktop\新增資料夾\人工智慧\DB15\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\WisHStaR\Desktop\新增資料夾\人工智慧\DB15\bin\roslyn\System.Xml.XPath.dll
+C:\Users\WisHStaR\Desktop\新增資料夾\人工智慧\DB15\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\WisHStaR\Desktop\新增資料夾\人工智慧\DB15\bin\roslyn\vbc.exe
+C:\Users\WisHStaR\Desktop\新增資料夾\人工智慧\DB15\bin\roslyn\vbc.exe.config
+C:\Users\WisHStaR\Desktop\新增資料夾\人工智慧\DB15\bin\roslyn\vbc.rsp
+C:\Users\WisHStaR\Desktop\新增資料夾\人工智慧\DB15\bin\roslyn\VBCSCompiler.exe
+C:\Users\WisHStaR\Desktop\新增資料夾\人工智慧\DB15\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\WisHStaR\Desktop\新增資料夾\人工智慧\DB15\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\WisHStaR\Desktop\新增資料夾\人工智慧\DB15\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\WisHStaR\Desktop\新增資料夾\人工智慧\DB15\obj\Debug\DB15.csprojAssemblyReference.cache
+C:\Users\WisHStaR\Desktop\新增資料夾\人工智慧\DB15\obj\Debug\DB15.csproj.CoreCompileInputs.cache
+C:\Users\WisHStaR\Desktop\新增資料夾\人工智慧\DB15\obj\Debug\DB15.csproj.CopyComplete
+C:\Users\WisHStaR\Desktop\新增資料夾\人工智慧\DB15\obj\Debug\DB15.dll
+C:\Users\WisHStaR\Desktop\新增資料夾\人工智慧\DB15\obj\Debug\DB15.pdb
+C:\Users\emily\Desktop\人工智慧\DB15\bin\DB15.dll.config
+C:\Users\emily\Desktop\人工智慧\DB15\bin\DB15.dll
+C:\Users\emily\Desktop\人工智慧\DB15\bin\DB15.pdb
+C:\Users\emily\Desktop\人工智慧\DB15\bin\roslyn\csc.exe
+C:\Users\emily\Desktop\人工智慧\DB15\bin\roslyn\csc.exe.config
+C:\Users\emily\Desktop\人工智慧\DB15\bin\roslyn\csc.rsp
+C:\Users\emily\Desktop\人工智慧\DB15\bin\roslyn\csi.exe
+C:\Users\emily\Desktop\人工智慧\DB15\bin\roslyn\csi.exe.config
+C:\Users\emily\Desktop\人工智慧\DB15\bin\roslyn\csi.rsp
+C:\Users\emily\Desktop\人工智慧\DB15\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\emily\Desktop\人工智慧\DB15\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\emily\Desktop\人工智慧\DB15\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\emily\Desktop\人工智慧\DB15\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\emily\Desktop\人工智慧\DB15\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\emily\Desktop\人工智慧\DB15\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\emily\Desktop\人工智慧\DB15\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\emily\Desktop\人工智慧\DB15\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\emily\Desktop\人工智慧\DB15\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\emily\Desktop\人工智慧\DB15\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\emily\Desktop\人工智慧\DB15\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\emily\Desktop\人工智慧\DB15\bin\roslyn\System.AppContext.dll
+C:\Users\emily\Desktop\人工智慧\DB15\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\emily\Desktop\人工智慧\DB15\bin\roslyn\System.Console.dll
+C:\Users\emily\Desktop\人工智慧\DB15\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\emily\Desktop\人工智慧\DB15\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\emily\Desktop\人工智慧\DB15\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\emily\Desktop\人工智慧\DB15\bin\roslyn\System.IO.Compression.dll
+C:\Users\emily\Desktop\人工智慧\DB15\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\emily\Desktop\人工智慧\DB15\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\emily\Desktop\人工智慧\DB15\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\emily\Desktop\人工智慧\DB15\bin\roslyn\System.IO.Pipes.dll
+C:\Users\emily\Desktop\人工智慧\DB15\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\emily\Desktop\人工智慧\DB15\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\emily\Desktop\人工智慧\DB15\bin\roslyn\System.Security.Claims.dll
+C:\Users\emily\Desktop\人工智慧\DB15\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\emily\Desktop\人工智慧\DB15\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\emily\Desktop\人工智慧\DB15\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\emily\Desktop\人工智慧\DB15\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\emily\Desktop\人工智慧\DB15\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\emily\Desktop\人工智慧\DB15\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\emily\Desktop\人工智慧\DB15\bin\roslyn\System.Threading.Thread.dll
+C:\Users\emily\Desktop\人工智慧\DB15\bin\roslyn\System.ValueTuple.dll
+C:\Users\emily\Desktop\人工智慧\DB15\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\emily\Desktop\人工智慧\DB15\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\emily\Desktop\人工智慧\DB15\bin\roslyn\System.Xml.XPath.dll
+C:\Users\emily\Desktop\人工智慧\DB15\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\emily\Desktop\人工智慧\DB15\bin\roslyn\vbc.exe
+C:\Users\emily\Desktop\人工智慧\DB15\bin\roslyn\vbc.exe.config
+C:\Users\emily\Desktop\人工智慧\DB15\bin\roslyn\vbc.rsp
+C:\Users\emily\Desktop\人工智慧\DB15\bin\roslyn\VBCSCompiler.exe
+C:\Users\emily\Desktop\人工智慧\DB15\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\emily\Desktop\人工智慧\DB15\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\emily\Desktop\人工智慧\DB15\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\emily\Desktop\人工智慧\DB15\obj\Debug\DB15.csprojResolveAssemblyReference.cache
+C:\Users\emily\Desktop\人工智慧\DB15\obj\Debug\DB15.csproj.CoreCompileInputs.cache
+C:\Users\emily\Desktop\人工智慧\DB15\obj\Debug\DB15.csproj.CopyComplete
+C:\Users\emily\Desktop\人工智慧\DB15\obj\Debug\DB15.dll
+C:\Users\emily\Desktop\人工智慧\DB15\obj\Debug\DB15.pdb
